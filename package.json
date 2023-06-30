@@ -1,0 +1,33 @@
+{
+  "name": "slop-ns",
+  "version": "1.0.0",
+  "description": "SlopSwap Official Web3 Domain Naming Service and Resolution Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalypsoDevelopment/SLOP-NS.git"
+  },
+  "keywords": [
+    "SlopSwap",
+    "DNS",
+    "UNS",
+    "CNS",
+    "ENS",
+    "Web3",
+    "NFT",
+    "Domain",
+    "Registry",
+    "and",
+    "Minting",
+    "platform"
+  ],
+  "author": "Brandon Fowler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CalypsoDevelopment/SLOP-NS/issues"
+  },
+  "homepage": "https://github.com/CalypsoDevelopment/SLOP-NS#readme"
+}
